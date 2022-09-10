@@ -1,0 +1,14 @@
+E:\OOP\Coffee\Coffee\obj\Debug\Coffee.csproj.AssemblyReference.cache
+E:\OOP\Coffee\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\OOP\Coffee\Coffee\bin\Debug\Coffee.exe.config
+E:\OOP\Coffee\Coffee\bin\Debug\Coffee.exe
+E:\OOP\Coffee\Coffee\bin\Debug\Coffee.pdb
+E:\OOP\Coffee\Coffee\obj\Debug\Coffee.exe
+E:\OOP\Coffee\Coffee\obj\Debug\Coffee.pdb
+E:\Danish Data\2nd Semester\OOP\VIVA\Coffee\Coffee\bin\Debug\Coffee.exe.config
+E:\Danish Data\2nd Semester\OOP\VIVA\Coffee\Coffee\bin\Debug\Coffee.exe
+E:\Danish Data\2nd Semester\OOP\VIVA\Coffee\Coffee\bin\Debug\Coffee.pdb
+E:\Danish Data\2nd Semester\OOP\VIVA\Coffee\Coffee\obj\Debug\Coffee.csproj.AssemblyReference.cache
+E:\Danish Data\2nd Semester\OOP\VIVA\Coffee\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+E:\Danish Data\2nd Semester\OOP\VIVA\Coffee\Coffee\obj\Debug\Coffee.exe
+E:\Danish Data\2nd Semester\OOP\VIVA\Coffee\Coffee\obj\Debug\Coffee.pdb
